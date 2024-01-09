@@ -10,3 +10,6 @@ Background PNG by [TT]([https://](https://ko-fi.com/tempusthales) on Ko-Fi!
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:iamtempusthales@gmail.com?subject=Hello%20TT!,%20From%20Github)
 
 </div>
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
