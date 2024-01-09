@@ -1,5 +1,5 @@
 <div align="center">
-[![Hello World, I'm TT!](assets/header.gif)](https://github.com/tempusthales)
+[![Hello World, I'm TT!]([assets/header.gif](https://i.imgur.com/mu6eKXv.png))](https://github.com/tempusthales)
 
 # Work
 ### Client Platform Engineer at Giga Texas.
