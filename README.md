@@ -2,7 +2,7 @@
 
 [![I'm Tempus Thales!](https://i.imgur.com/mu6eKXv.png)](https://github.com/tempusthales)
 
-Background PNG by [TT]([https://](https://ko-fi.com/tempusthales) on Ko-Fi!
+Background PNG by [TT](https://](https://ko-fi.com/tempusthales) on Ko-Fi!
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tempusthales) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gilbertpalau/) &nbsp;
