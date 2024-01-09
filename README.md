@@ -1,7 +1,10 @@
-### Hi there 👋 This is a TL;DR of me:
+<div align="center">
+[![Hello World, I'm TT!](assets/header.gif)](https://github.com/tempusthales)
 
 # Work
-### Client Platform Engineer at Giga Texas ![Tesla](https://emojis.slackmojis.com/emojis/images/1643514833/8469/tesla.png?1643514833)
+### Client Platform Engineer at Giga Texas.
+
+
 **GAMING**
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
