@@ -1,6 +1,6 @@
 <div align="center">
 
-![I'm Tempus Thales!](https://myoctocat.com/assets/images/base-octocat.svg)(https://github.com/tempusthales)
+![I'm Tempus Thales!](https://i.imgur.com/mu6eKXv.png)(https://github.com/tempusthales)
 
 # Work
 ### Client Platform Engineer at Giga Texas.
