@@ -34,6 +34,11 @@ Background PNG by [TT](https://ko-fi.com/tempusthales)
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshyun28&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
+## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
+
+<p>
+    <a target="_blank"href="[https://www.gitpoap.io/gp/893](https://github.com/Flet/rejected-github-profile-achievements?tab=readme-ov-file)"><img height=175 alt="Over 100 issue comments consisting of just "+1" or a thumbs up emoji" src="https://github.com/Flet/rejected-github-profile-achievements/raw/main/images/plusone.png" />&nbsp;&nbsp;
+
 ## 🎮 When I'm AFK:
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
