@@ -37,8 +37,8 @@ Background PNG by [TT](https://ko-fi.com/tempusthales)
 ## 🤝 My Contributions and [POAPs](https://www.gitpoap.io/p/0x994cca07c9f25fe84211ea61b61eab5552a32c6d):
 
 <p>
-    <a target="_blank"href="[https://www.gitpoap.io/gp/893](https://github.com/Flet/rejected-github-profile-achievements?tab=readme-ov-file)"><img height=175 alt="Over 100 issue comments consisting of just "+1" or a thumbs up emoji" src="https://github.com/Flet/rejected-github-profile-achievements/raw/main/images/plusone.png" />&nbsp;&nbsp;
-    <a target="_blank"href="[https://www.gitpoap.io/gp/893](https://github.com/Flet/rejected-github-profile-achievements?tab=readme-ov-file)"><img height=175 alt="Over 100 issue comments consisting of just "+1" or a thumbs up emoji" src="https://github.com/Flet/rejected-github-profile-achievements/raw/main/images/plusone.png" />&nbsp;&nbsp;
+    <a target="_blank"href="https://github.com/Flet/rejected-github-profile-achievements?tab=readme-ov-file"><img height=175 alt="Over 100 issue comments consisting of just "+1" or a thumbs up emoji" src="https://github.com/Flet/rejected-github-profile-achievements/raw/main/images/plusone.png" />&nbsp;&nbsp;
+    <a target="_blank"href="https://github.com/Flet/rejected-github-profile-achievements?tab=readme-ov-file"><img height=175 alt="Created a repository with a single "init" commit with just a README.md. Then never touch it for 5 years." src="https://github.com/Flet/rejected-github-profile-achievements/raw/main/images/procrastinator.png" />&nbsp;&nbsp;
 
 ## 🎮 When I'm AFK:
 
