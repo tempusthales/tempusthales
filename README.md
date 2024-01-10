@@ -38,6 +38,7 @@ Background PNG by [TT](https://ko-fi.com/tempusthales)
 
 <p>
     <a target="_blank"href="[https://www.gitpoap.io/gp/893](https://github.com/Flet/rejected-github-profile-achievements?tab=readme-ov-file)"><img height=175 alt="Over 100 issue comments consisting of just "+1" or a thumbs up emoji" src="https://github.com/Flet/rejected-github-profile-achievements/raw/main/images/plusone.png" />&nbsp;&nbsp;
+    <a target="_blank"href="[https://www.gitpoap.io/gp/893](https://github.com/Flet/rejected-github-profile-achievements?tab=readme-ov-file)"><img height=175 alt="Over 100 issue comments consisting of just "+1" or a thumbs up emoji" src="https://github.com/Flet/rejected-github-profile-achievements/raw/main/images/plusone.png" />&nbsp;&nbsp;
 
 ## 🎮 When I'm AFK:
 
