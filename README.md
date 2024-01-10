@@ -25,7 +25,7 @@ Background PNG by [TT](https://ko-fi.com/tempusthales)
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Bash, Docker, GitHub, Grafana, Python, Ruby, Swift, Visual Studio Code](https://skillicons.dev/icons?i=bash,docker,github,grafana,py,ruby,swift,vscode)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 
@@ -42,5 +42,4 @@ Background PNG by [TT](https://ko-fi.com/tempusthales)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
 
 
-
-'
+</div>
