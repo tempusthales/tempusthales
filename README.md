@@ -13,7 +13,6 @@ Background PNG by [TT](https://ko-fi.com/tempusthales)
 
 - 🔭 I’m currently working at [Giga Texas](https://tesla.com/giga-texas) doing Client Platform Engineering for [macOS](https://dev.to/search?q=macOS) endpoints with [jamf](https://dev.to/search?q=jamf).
 - 🌱 I’m passionate about [bash](https://dev.to/search?q=bash), [ruby](https://dev.to/search?q=ruby) and [python](https://dev.to/search?q=python).
-- 📝 I’m aiming to write ~~**one article per week**~~ **one article per month** starting from February 2024 in my blog [BOHICA](https://bohica.dev).
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ✨ I've been super interested in AI and I am constantly learning on prompt-gramming as a way to troubleshoot my own code.
 - ⚡ Fun fact: I am an avid Video Gamer, Dog and Cat owner, and I like to travel and do photography.
